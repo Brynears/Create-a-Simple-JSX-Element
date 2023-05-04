@@ -1,1 +1,1 @@
-I am learning React language for work. These are my small challenges I learned from [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-simple-jsx-element)
+I am learning React language for work. Here I have compiled the proivided challenges I learned from [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-simple-jsx-element)
