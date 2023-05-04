@@ -1,3 +1,1 @@
-# Create-a-Simple-JSX-Element
-The current code uses JSX to assign a div element to the constant JSX. 
-Replace the div with an h1 element and add the text Hello JSX! inside it.
+I am learnint React language for work. These are my small challenges I learned from [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-simple-jsx-element)
